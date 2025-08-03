@@ -1,0 +1,16 @@
+[network]
+name = "testnet"
+node_rpc_address = "https://api.testnet.hiro.so"
+deployment_fee_rate = 10
+
+[accounts.deployer]
+mnemonic = "consider describe small employ mushroom rain execute agree deliver tank ridge virtual escape nurse actor ignore stool left inspire dinner among fiber appear success"
+# Address: ST6XGV32QF0MGHYENM6E2AHY2PW3A77Q3RHW213F
+
+[accounts.wallet_1]
+mnemonic = "consider describe small employ mushroom rain execute agree deliver tank ridge virtual escape nurse actor ignore stool left inspire dinner among fiber appear success"
+# Address: ST6XGV32QF0MGHYENM6E2AHY2PW3A77Q3RHW213F
+
+[accounts.wallet_2]
+mnemonic = "sell invite acquire kitten bamboo drastic jelly vivid peace spawn twice guilt pave pen trash pretty park cube fragile unaware remain midnight betray rebuild"
+# Address: ST1SJ3DTE5DN7X54YDH5D64R3BCB6A2AG2ZQ8YPD5

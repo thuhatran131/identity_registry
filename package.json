@@ -1,0 +1,14 @@
+{
+  "name": "identity-registry",
+  "version": "1.0.0",
+  "description": "Decentralized Identity Registry Smart Contract",
+  "scripts": {
+    "test": "clarinet test",
+    "check": "clarinet check",
+    "deploy": "clarinet deploy"
+  },
+  "devDependencies": {
+    "@types/node": "^18.0.0",
+    "typescript": "^4.7.4"
+  }
+}
